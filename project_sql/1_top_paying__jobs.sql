@@ -8,6 +8,15 @@
     a. optimal: High Demand AND High Paying
 */
 
+/*
+Question: What are the top-paying data Scientist jobs?
+- Identify the top 10 highest-paying Data Scientist roles that are available remotely
+- Focuses on job postings with specified salaries (remove nulls)
+- BONUS: Include company names of top 10 roles
+- Why? Highlight the top-paying opportunities for Data Scientist, offering insights into employment options and location flexibility.
+*/
+
+
 SELECT
     job_id,
     job_title,
